@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1096310278923",
+    "project_id": "quiz-app-bc6cc",
+    "storage_bucket": "quiz-app-bc6cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096310278923:android:383b0f7ea291dabf88700e",
+        "android_client_info": {
+          "package_name": "com.example.eccomerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096310278923-l8bhtv2gjuhkcln59rqrmdmoo1s0u1hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIrS8DlND1FX9MSJOeBHIJ3EBK4WZdEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096310278923-l8bhtv2gjuhkcln59rqrmdmoo1s0u1hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096310278923-5lbe5d07o86jmg967fb3oactqrk6odd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096310278923:android:f06122e9c3a5fb5e88700e",
+        "android_client_info": {
+          "package_name": "com.example.old_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096310278923-l8bhtv2gjuhkcln59rqrmdmoo1s0u1hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIrS8DlND1FX9MSJOeBHIJ3EBK4WZdEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096310278923-l8bhtv2gjuhkcln59rqrmdmoo1s0u1hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096310278923-5lbe5d07o86jmg967fb3oactqrk6odd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096310278923:android:cd2ea87c8bd21a6488700e",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096310278923-l8bhtv2gjuhkcln59rqrmdmoo1s0u1hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIrS8DlND1FX9MSJOeBHIJ3EBK4WZdEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096310278923-l8bhtv2gjuhkcln59rqrmdmoo1s0u1hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096310278923-5lbe5d07o86jmg967fb3oactqrk6odd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
